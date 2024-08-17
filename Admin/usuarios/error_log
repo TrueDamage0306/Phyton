@@ -1,0 +1,1 @@
+[19-Mar-2024 14:51:39 America/Mexico_City] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home3/antoni45/public_html/sistema_umbv/class/Login.class.php on line 108
